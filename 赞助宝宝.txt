@@ -1,0 +1,9 @@
+/cheat partner add 7114
+/cheat partner 1 atknative 9999
+/cheat partner 1 defnative 9999
+/cheat partner 1 hpnative 9999
+/cheat partner 1 spnative 9999
+/cheat partner 1 spdnative 9999
+/cheat partner 1 evanative 9999
+/cheat partner 1 grow 9999
+/cheat partner 1 221

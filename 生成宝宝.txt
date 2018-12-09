@@ -1,0 +1,11 @@
+宝宝:
+/cheat partner add 7163
+/cheat partner 0 atknative 9999
+/cheat partner 0 defnative 9999
+/cheat partner 0 hpnative 9999
+/cheat partner 0 spnative 9999
+/cheat partner 0 spdnative 9999
+/cheat partner 0 evanative 9999
+/cheat partner 0 grownative 9999
+/cheat partner 0 skill <skill_id>
+/cheat partner 0 skill 312

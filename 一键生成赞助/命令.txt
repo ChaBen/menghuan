@@ -1,0 +1,129 @@
+/cheat partner add 7132
+/cheat money 5000000000
+
+他人:
+/cheat money 2000000000
+/cheat char 4 item add 410607
+/cheat char 1 exp 2000000000
+/cheat char 2 exp 2000000000
+/cheat char 16 money 1000000000
+/cheat char 4 speed 300
+
+/cheat char 10 level 119
+
+/cheat item add 93250
+/cheat item add 50000 1 金龟壳 
+/cheat item add 80091 1 抽奖券
+/cheat item add 501925 1 2888
+
+一阶百炼精铁:
+/cheat char 16 item add 20067x2
+/cheat char 13 item add 60036x10
+/cheat char 13 item add 60052x10
+/cheat char 13 item add 60085x10
+/cheat char 13 item add 60117x10
+/cheat char 13 item add 60311x10
+/cheat char 13 item add 20756x99
+制造指南书【一阶】:
+/cheat char 16 item add 20067x5
+
+宝宝:
+/cheat partner add 7163
+/cheat partner 1 atknative 9999
+/cheat partner 1 defnative 9999
+/cheat partner 1 hpnative 9999
+/cheat partner 1 spnative 9999
+/cheat partner 1 spdnative 9999
+/cheat partner 1 evanative 9999
+/cheat partner 1 grownative 9999
+/cheat partner 1 skill <skill_id>
+/cheat partner 0 skill 228
+
+atknative = 攻击
+defnative = 防御
+hpnative  = 体力
+spnative  = 法力
+spdnative = 速度
+evanative = 躲避
+grownative = 成长
+
+# GM发布游戏公告 
+/cheat GM say 0 2 hihi （# 走马灯公告） 
+/cheat GM say 1 hihi （# 左下GM公告） 
+/cheat GM say 2 0 hihi （# 左下传闻及屏幕中央公告） 
+/cheat GM say 2 1 hihi （# 左下聊天窗传闻频道） 
+
+/cheat jump 地图 线路 x y# 飞地图，map_id为地图id，x、y为坐标点，线路为1线或2线如：
+/cheat jump 20100 1 88 88即飞至1线无名岛88，88坐标处 
+/cheat hp <hp> # 设置角色HP 
+/cheat sp <sp> # 设置角色SP 
+/cheat exp <exp> # 设置角色经验 
+/cheat honor <honor> # 设置角色威望 
+/cheat level <level> # 设置角色等级 
+/cheat faction <faction> # 设置角色门派 
+/cheat yuanbao <yuanbao> # 设置角色元宝 
+/cheat money <money> # 设置角色银两 
+/cheat bmoney <bmoney> # 设置角色钱庄存款 
+/cheat br <battle_rate> # 设置角色战斗速度 
+/cheat speed <speed> # 设置角色行走速度 
+/cheat attrib <sta> <spr> <str> <con> <agi> # 设置角色5种属性值 
+/cheat apoint <value> # 设置角色属性点 
+/cheat quest log add <quest_id> <type_id> # 在任务日志加任务大类或任务小类，quest_id为任务小类id，type_id为任务大类id 
+/cheat quest log remove <quest_id> #  delete 清除任务日志中任务小类 
+/cheat quest type add <type_id> <round> # 删除指定的任务日志 
+/cheat quest type remove <type_id> # 删除指定的任务 
+/cheat quest type clear <type_id> # 同上 
+/cheat quest type clear # 同上 
+/cheat quest flag add <flag_id> <value> # 在任务步骤中新增一支flag 
+/cheat quest flag remove <flag_id> # 在任务步骤中清空一支flag 
+/cheat item add <item_id>x<item_count> # 增加物品 /cheat item add 61009 1
+/cheat item remove <item_id>x<item_count> # 删除物品 
+/cheat item value <item_id> <value1> <value2> <value3> # 未知指令 
+/cheat item quality <item_id> <quality> # 未知指令 
+/cheat item ExpireDate <item_id> <expire_date> # 未知指令 
+(PS: expire_date = YYYYMMDDHHmm, e.g. 200812312359) 
+/cheat skill learn <skill_id> # 学习心法 
+/cheat skill upgrade <skill_id> # 心法等级升一级 
+/cheat skill level <skill_id> <level> # 心法升到指定等级 
+/cheat skill remove <skill_id> # 删除心法及心法下挂的技能 
+/cheat buff add <buff_id> <buff_value1> <buff_value2> <buff_value3> <cooldown> <pro> # 新增角色的Buff 
+/cheat buff remove <buff_id> # 删除角色的Buff 
+/cheat addeqbuff <eq_index> <buff_id> <buff_value1> <buff_value2> <buff_value3> <cooldown> <pro>     # 新增角色多个BUFF
+/cheat partner add <mob_id> # 添加一个同伴 
+/cheat partner maxPartner <max_partner> # 修改角色可携带的最大同伴数 
+/cheat partner <partner_index> favour <favour> # 修改同伴的好感度 
+/cheat partner <partner_index> exp <exp> # 增加同伴经验 
+/cheat partner <partner_index> skill <skill_id> # 增加同伴技能 
+/cheat partner <partner_index> removeskill <skill_id> # 删除同伴技能 
+/cheat partner <partner_index> level <value> # 调整同伴到指定等级 
+/cheat partner <partner_index> grow <value> # 调整同伴某个属性 
+/cheat partner <partner_index> sta <value> # 调整同伴某个属性 
+/cheat partner <partner_index> spr <value> # 调整同伴某个属性 
+/cheat partner <partner_index> str <value> # 调整同伴某个属性 
+/cheat partner <partner_index> con <value> # 调整同伴某个属性 
+/cheat partner <partner_index> agi <value> # 调整同伴某个属性 
+/cheat partner <partner_index> attrib <sta_value> <spr_value> <str_value> <con_value> <agi_value> # 调整同伴多个属性 
+/cheat partner <partner_index> hpnative <value> # 调整同伴某个属性 
+/cheat partner <partner_index> spnative <value> # 调整同伴某个属性 
+/cheat partner <partner_index> atknative <value> # 调整同伴某个属性 
+/cheat partner <partner_index> defnative <value> # 调整同伴某个属性 
+/cheat partner <partner_index> spdnative <value> # 调整同伴某个属性 
+/cheat partner <partner_index> pownative <value> # 调整同伴某个属性 
+/cheat partner <partner_index> hitnative <value> # 调整同伴某个属性 
+/cheat partner <partner_index> evanative <value> # 调整同伴某个属性 
+/cheat partner <partner_index> native <hpnative_value> <spnative_value> <atknative_value> <defnative_value> <spdnative_value> <pownative_value> <hitnative_value> <evanative_value> # 调整同伴多个属性 
+/cheat addSpeakCount <count> # 增加江湖频道发言数
+/cheat char <char_id> <all_other_cheat> # 帮别人执行cheat指令 
+/cheat pet add <pet_id> # 添加一只宠物 
+/cheat mixshop <shop_id> # 打开某个界面 
+/cheat title add <title_id> # 新增一个称谓 
+/cheat npc add <npc_id> <lifetime> # 添加一个NPC？ 
+/cheat npc find <npc_id> <map_id> # 找到NPC的目标 
+/cheat battle <npc_id> # 即时与NPC小队战斗 
+/cheat battle win <npc_id> <mob_id>x<count> ... # 即时与NPC战斗，且胜利，并杀了几个某种怪 
+/cheat reload script # 修改了BatScript / ItemScript / Script後，重新安全讀取 
+/cheat stop script # 停止某个脚本 
+/cheat resetSpeakBlock # 解除禁言 
+/cheat speakBlock 10000 # 禁言 
+/cheat hawkershop # 打开某个商店 
+/cheat title add <title_id>#新增一个称谓
