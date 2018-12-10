@@ -3,6 +3,7 @@
 
 他人:
 /cheat money 2000000000
+/cheat exp 2000000000
 /cheat char 4 item add 410607
 /cheat char 1 exp 2000000000
 /cheat char 2 exp 2000000000
@@ -11,7 +12,9 @@
 
 /cheat char 10 level 119
 
-/cheat item add 93250
+/cheat item add 80091
+/cheat item add 10349
+/cheat item add 10350
 /cheat item add 50000 1 金龟壳 
 /cheat item add 80091 1 抽奖券
 /cheat item add 501925 1 2888
@@ -29,15 +32,14 @@
 
 宝宝:
 /cheat partner add 7163
-/cheat partner 1 atknative 9999
-/cheat partner 1 defnative 9999
-/cheat partner 1 hpnative 9999
-/cheat partner 1 spnative 9999
-/cheat partner 1 spdnative 9999
-/cheat partner 1 evanative 9999
-/cheat partner 1 grownative 9999
-/cheat partner 1 skill <skill_id>
-/cheat partner 0 skill 228
+/cheat partner 0 atknative 9999
+/cheat partner 0 defnative 9999
+/cheat partner 0 hpnative 99999
+/cheat partner 0 spnative 99999
+/cheat partner 0 spdnative 99999
+/cheat partner 0 evanative 99999
+/cheat partner 0 grownative 99999
+/cheat partner 0 skill 4403
 
 atknative = 攻击
 defnative = 防御
