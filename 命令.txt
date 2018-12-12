@@ -12,15 +12,15 @@
 
 /cheat level 155
 
-/cheat item add 20067
-/cheat item add 10349
+/cheat item add 80091x99
+/cheat item add 30010x10
 /cheat item add 10350
 /cheat item add 50000 1 金龟壳 
 /cheat item add 80091 1 抽奖券
 /cheat item add 501925 1 2888
 
 一阶百炼精铁:
-/cheat char 13 item add 83106x17
+/cheat char 6 item add 80091x99
 /cheat char 13 item add 60036x10
 /cheat char 13 item add 60052x10
 /cheat char 13 item add 60085x10
@@ -31,21 +31,22 @@
 /cheat char 16 item add 20067x5
 
 宝宝:
-/cheat partner add 431
+/cheat partner add 7110
 /cheat partner add 7121
 /cheat partner add 7125
 /cheat partner add 7134
 /cheat partner add 7139
 /cheat partner add 7160
 /cheat partner add 7163
-/cheat partner 0 atknative 9999
-/cheat partner 0 defnative 9999
-/cheat partner 0 hpnative 9999
-/cheat partner 0 spnative 9999
-/cheat partner 0 spdnative 9999
-/cheat partner 0 evanative 9999
-/cheat partner 0 grow 9999
+/cheat partner 0 atknative 3800
+/cheat partner 0 defnative 3800
+/cheat partner 0 hpnative 7800
+/cheat partner 0 spnative 7800
+/cheat partner 0 spdnative 3800
+/cheat partner 0 evanative 3800
+/cheat partner 0 grow 4500
 /cheat partner 0 skill 219
+/cheat partner 0 removeskill 219
 
 atknative = 攻击
 defnative = 防御
@@ -102,7 +103,7 @@ grownative = 成长
 /cheat partner <partner_index> favour <favour> # 修改同伴的好感度 
 /cheat partner <partner_index> exp <exp> # 增加同伴经验 
 /cheat partner <partner_index> skill <skill_id> # 增加同伴技能 
-/cheat partner <partner_index> removeskill <skill_id> # 删除同伴技能 
+/cheat partner 0 removeskill 5181 # 删除同伴技能 
 /cheat partner <partner_index> level <value> # 调整同伴到指定等级 
 /cheat partner <partner_index> grow <value> # 调整同伴某个属性 
 /cheat partner <partner_index> sta <value> # 调整同伴某个属性 
