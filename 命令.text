@@ -20,7 +20,8 @@
 /cheat item add 501925 1 2888
 
 一阶百炼精铁:
-/cheat char 21 item add 80091x99
+/cheat char 25 item add 500029
+/cheat char 13 item add 500018
 /cheat char 13 item add 60036x10
 /cheat char 13 item add 60052x10
 /cheat char 13 item add 60085x10
@@ -31,7 +32,7 @@
 /cheat char 16 item add 20067x5
 
 宝宝:
-/cheat partner add 7110
+/cheat partner add 431
 /cheat partner add 7121
 /cheat partner add 7125
 /cheat partner add 7134
