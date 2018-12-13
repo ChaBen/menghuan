@@ -20,7 +20,7 @@
 /cheat item add 501925 1 2888
 
 一阶百炼精铁:
-/cheat char 6 item add 80091x99
+/cheat char 21 item add 80091x99
 /cheat char 13 item add 60036x10
 /cheat char 13 item add 60052x10
 /cheat char 13 item add 60085x10
@@ -45,7 +45,7 @@
 /cheat partner 0 spdnative 3800
 /cheat partner 0 evanative 3800
 /cheat partner 0 grow 4500
-/cheat partner 0 skill 219
+/cheat partner 0 skill 4407
 /cheat partner 0 removeskill 219
 
 atknative = 攻击
