@@ -92,7 +92,6 @@ local item2 = {
   { itemid = 20067, itemname = "浪漫宠物技能卡" },
   { itemid = 27959, itemname = "天星灵饰" },
   { itemid = 402850, itemname = "乾元丹" },
-  { itemid = 50001, itemname = "毛虫眼" },
   { itemid = 20001, itemname = "高级藏宝图" },
   { itemid = 80091, itemname = "抽奖券" },
   -- 宝石
