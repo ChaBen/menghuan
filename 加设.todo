@@ -1,0 +1,21 @@
+服务器:
+  ☐ 防火墙关掉的习惯
+  ☐ iis7 :80 端口
+  ☐ 硬件: 安装(计划内)
+  ☐ 服务器管理器 > 存储 > 更改驱动号
+  ☐ SQLServer2005_SSMSEE(64位) > 重启
+
+microsoft SQL Server:
+  ☐ setup 安装所有工具 > 系统账户 三个 > 密码
+  ☐ SQLSRV32 桌面 新建文件夹
+  ☐ 数据库引擎
+  ☐ configuration manager 1433端口
+  ☐ 2005网络配置 协议 端口
+  ☐ phpStudySetup
+  ☐ xyq
+  ☐ member
+  ☐ common > conf > 5.6.27 > redis
+  ☐ 进程 > redis-server 实际
+  ☐ php.ini
+  ☐ 921
+  ☐ MSSQLSERVER 重启

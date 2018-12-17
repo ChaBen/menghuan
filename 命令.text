@@ -1,19 +1,20 @@
 /cheat partner add 7132
 /cheat money 5000000000
+/cheat reload script
 
 他人:
 /cheat money 2000000000
 /cheat exp 2000000000
-/cheat char 4 item add 410607
+/cheat char 27 item add 61045x3
 /cheat char 1 exp 2000000000
-/cheat char 2 exp 2000000000
+/cheat char 27 exp 1000000000
 /cheat char 16 money 1000000000
 /cheat char 4 speed 300
 
 /cheat level 155
 
-/cheat item add 403532
-/cheat item add 30010x10
+/cheat item add 20096
+/cheat item add 90021
 /cheat item add 20067
 /cheat item add 30010x10
 /cheat item add 80091 1 抽奖券
@@ -46,7 +47,7 @@
 /cheat partner 0 spdnative 3800
 /cheat partner 0 evanative 3800
 /cheat partner 0 grow 4500
-/cheat partner 0 skill 4407
+/cheat partner 0 skill 219 4407
 /cheat partner 0 removeskill 219
 
 atknative = 攻击
