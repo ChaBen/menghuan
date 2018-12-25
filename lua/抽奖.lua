@@ -65,10 +65,10 @@ local item = {
   { itemid = 61032,	itemname = "攻击资质丹" },
   { itemid = 61033,	itemname = "防御资质丹" },
   -- 灵饰
-  { itemid = 27542 itemname = "8级天罡灵饰" },
-  { itemid = 27543 itemname = "9级天罡灵饰" },
-  { itemid = 27544 itemname = "10级天罡灵饰" },
-  { itemid = 20000 itemname = "藏宝图" },
+  { itemid = 27542, itemname = "8级天罡灵饰" },
+  { itemid = 27543, itemname = "9级天罡灵饰" },
+  { itemid = 27544, itemname = "10级天罡灵饰" },
+  { itemid = 20000, itemname = "藏宝图" },
   --金币
   { itemid = 80066,	itemname = "银两1000W" },
 }

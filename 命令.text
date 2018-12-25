@@ -2,6 +2,9 @@
 /cheat money 5000000000
 /cheat reload script
 
+/cheat char 7 skill learn 9778
+/cheat char 7 skill upgrade 9778x10
+
 他人:
 /cheat money 2000000000
 /cheat exp 2000000000
@@ -12,8 +15,12 @@
 /cheat char 4 speed 300
 
 /cheat level 155
+402845 至尊VIP卡礼包
+400042
+400045
+400049
 
-/cheat item add 20096
+/cheat item add 40048
 /cheat item add 90021
 /cheat item add 20067
 /cheat item add 30010x10
@@ -21,7 +28,7 @@
 /cheat item add 501925 1 2888
 
 一阶百炼精铁:
-/cheat char 27 item add 80091x99
+/cheat char 2 item add 10077x10
 /cheat char 13 item add 500018
 /cheat char 13 item add 60036x10
 /cheat char 13 item add 60052x10
@@ -33,21 +40,23 @@
 /cheat char 16 item add 20067x5
 
 宝宝:
-/cheat partner add 431
+/cheat partner add 950
 /cheat partner add 7121
 /cheat partner add 7125
 /cheat partner add 7134
 /cheat partner add 7139
 /cheat partner add 7160
 /cheat partner add 7163
-/cheat partner 0 atknative 3800
-/cheat partner 0 defnative 3800
-/cheat partner 0 hpnative 7800
-/cheat partner 0 spnative 7800
-/cheat partner 0 spdnative 3800
-/cheat partner 0 evanative 3800
-/cheat partner 0 grow 4500
-/cheat partner 0 skill 219 4407
+/cheat partner 0 atknative 9999
+/cheat partner 0 defnative 9999
+/cheat partner 0 hpnative 9999
+/cheat partner 0 spnative 9999
+/cheat partner 0 spdnative 9999
+/cheat partner 0 evanative 9999
+/cheat partner 0 grow 9999
+/cheat partner 0 skill 40048
+/cheat partner 0 skill 4407
+/cheat partner 0 skill 219
 /cheat partner 0 removeskill 219
 
 atknative = 攻击
