@@ -20,15 +20,17 @@
 400045
 400049
 
-/cheat item add 40048
+/cheat item add 20067
 /cheat item add 90021
 /cheat item add 20067
 /cheat item add 30010x10
 /cheat item add 80091 1 抽奖券
 /cheat item add 501925 1 2888
+/cheat char 32 item add 20067x2
+
 
 一阶百炼精铁:
-/cheat char 2 item add 10077x10
+/cheat char 32 item add 10077x10
 /cheat char 13 item add 500018
 /cheat char 13 item add 60036x10
 /cheat char 13 item add 60052x10
@@ -40,7 +42,7 @@
 /cheat char 16 item add 20067x5
 
 宝宝:
-/cheat partner add 950
+/cheat partner add 7063
 /cheat partner add 7121
 /cheat partner add 7125
 /cheat partner add 7134
