@@ -1,0 +1,1 @@
+/cheat char 32 item add 80086
