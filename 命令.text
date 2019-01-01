@@ -6,12 +6,12 @@
 /cheat char 7 skill upgrade 9778x10
 
 他人:
-/cheat money 2000000000
+/cheat money 300000000
 /cheat exp 2000000000
-/cheat char 27 item add 61045x3
-/cheat char 1 exp 2000000000
+/cheat char 4 item add 50001x4
+/cheat char 51 exp 1000000000
 /cheat char 27 exp 1000000000
-/cheat char 62 money 1000000000
+/cheat char 32 money 200000000
 /cheat char 4 speed 300
 
 /cheat level 155
@@ -21,18 +21,18 @@
 400045
 400049
 
-/cheat item add 402850x99
+/cheat item add 80091
 /cheat item add 90021
 /cheat item add 20067
 /cheat item add 30010x10
 /cheat item add 80091 1 抽奖券
 /cheat item add 501925 1 2888
-/cheat char 62 item add 20067x2
+/cheat char 12 item add 80091x50
 
 
 一阶百炼精铁:
-/cheat char 32 item add 402850x99
-/cheat char 13 item add 500018
+/cheat char 85 item add 51403
+/cheat char 105 item add 80091x50
 /cheat char 13 item add 60036x10
 /cheat char 13 item add 60052x10
 /cheat char 13 item add 60085x10
@@ -40,12 +40,12 @@
 /cheat char 13 item add 60311x10
 /cheat char 13 item add 20756x99
 制造指南书【一阶】:
-/cheat char 16 item add 20067x5
+/cheat char 91 item add 61045
 
 宝宝:
-/cheat partner add 7062
-/cheat partner add 7121
-/cheat partner add 7125
+/cheat partner add 8205
+/cheat partner add 7063
+/cheat partner add 7136
 /cheat partner add 7134
 /cheat partner add 7139
 /cheat partner add 7160
@@ -55,12 +55,16 @@
 /cheat partner 0 hpnative 9999
 /cheat partner 0 spnative 9999
 /cheat partner 0 spdnative 9999
-/cheat partner 0 evanative 9999
+/cheat partner 2 grownative 1500
 /cheat partner 0 grow 9999
 /cheat partner 0 skill 40048
 /cheat partner 0 skill 4407
 /cheat partner 0 skill 219
-/cheat partner 0 removeskill 219
+/cheat partner 0 skill 311
+/cheat partner 0 skill 4506
+/cheat partner 1 grow 4406
+/cheat partner 0 removeskill 5250
+/cheat partner maxPartner 100
 
 atknative = 攻击
 defnative = 防御
@@ -68,7 +72,7 @@ hpnative  = 体力
 spnative  = 法力
 spdnative = 速度
 evanative = 躲避
-grownative = 成长
+grow = 成长
 
 # GM发布游戏公告 
 /cheat GM say 0 2 hihi （# 走马灯公告） 
