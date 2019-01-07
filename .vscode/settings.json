@@ -1,3 +1,7 @@
 {
   "editor.wordWrap": "off",
+	"[todo]": {
+    "editor.fontFamily": "Microsoft Yahei",
+    "editor.letterSpacing": 1
+  }
 }

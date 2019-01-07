@@ -6,12 +6,20 @@
 /cheat char 7 skill upgrade 9778x10
 
 他人:
-/cheat money 300000000
+/cheat money 2000000000
 /cheat exp 2000000000
-/cheat char 4 item add 50001x4
+/cheat attrib 1000 1000 1500 1000 1000
+
+/cheat char 27 item add 20067
+/cheat char 32 item add 20067
+/cheat char 33 item add 20067
+/cheat char 34 item add 20067
+/cheat char 35 item add 20067
+/cheat char 26 item add 20760x99
 /cheat char 51 exp 1000000000
 /cheat char 27 exp 1000000000
-/cheat char 32 money 200000000
+/cheat char 91 money 2000000000
+/cheat char 26 level 150
 /cheat char 4 speed 300
 
 /cheat level 155
@@ -21,7 +29,7 @@
 400045
 400049
 
-/cheat item add 80091
+/cheat item add 20067
 /cheat item add 90021
 /cheat item add 20067
 /cheat item add 30010x10
@@ -62,6 +70,7 @@
 /cheat partner 0 skill 219
 /cheat partner 0 skill 311
 /cheat partner 0 skill 4506
+/cheat partner 0 level 120
 /cheat partner 1 grow 4406
 /cheat partner 0 removeskill 5250
 /cheat partner maxPartner 100
